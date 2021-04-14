@@ -18,9 +18,10 @@ The project is a responsive website for a fictional blog about living a minimali
 
 ## Screenshots
 
-![Screenshot]()
+![Screenshot](https://user-images.githubusercontent.com/57517804/114658461-6abbad00-9d24-11eb-859f-f23ddf1d52c9.png)
+![Screenshot_1](https://user-images.githubusercontent.com/57517804/114658471-6d1e0700-9d24-11eb-91e3-685119b2186c.png)
 
-[Demo](https://inspiring-lamarr-ef8a35.netlify.app)
+[Demo](https://nostalgic-minsky-9e1623.netlify.app)
 
 ## Built With
 
