@@ -22,6 +22,12 @@ img {
   display: block;
 }
 
+.article-img-landscape {
+  max-height: 300px;
+  width: 100%;
+  object-fit: cover;
+}
+
 /* ==========
 Typography 
 ========== */
@@ -68,7 +74,7 @@ h1 {
 }
 
 .about-me-title {
-  margin-top: 1em;
+  margin-top: 2em;
 }
 
 .article-subtitle {
