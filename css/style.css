@@ -57,6 +57,7 @@ a:focus {
 h1 {
   font-size: 2rem;
   margin: 0 0 0.5em;
+  line-height: 1;
 }
 /* Logo subtitle */
 .subtitle {
@@ -65,6 +66,7 @@ h1 {
   color: #1792d2;
   text-transform: uppercase;
   margin: 0;
+  letter-spacing: 1px;
 }
 
 .article-title {
@@ -89,12 +91,14 @@ h1 {
   font-size: 1rem;
   margin-bottom: 1em;
   font-family: "Ubuntu", sans-serif;
+  letter-spacing: 1px;
 }
 
 .widget-recent-post-title {
   order: 2;
   font-size: 1rem;
   margin-top: 1em;
+  line-height: 1.4;
 }
 
 .article-info,
@@ -106,12 +110,19 @@ h1 {
   text-decoration: none;
   font-weight: 700;
   text-transform: uppercase;
+  letter-spacing: 1px;
 }
 
 .article-read-more:hover,
 .article-read-more:focus {
   color: #143774;
   text-decoration: underline;
+}
+
+@media (min-width: 675px) {
+  .subtitle {
+    text-align: left;
+  }
 }
 
 /* ==========
@@ -190,6 +201,8 @@ aside {
   font-size: 1rem;
   font-weight: 700;
   color: #707070;
+  text-transform: uppercase;
+  letter-spacing: 1px;
 }
 
 .nav-link:hover,
@@ -295,6 +308,7 @@ aside {
   font-size: 0.875rem;
   color: #143774;
   margin-top: 1.5em;
+  line-height: 1.6;
 }
 
 .widget-recent-post {
