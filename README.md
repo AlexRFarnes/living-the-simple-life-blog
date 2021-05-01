@@ -14,7 +14,7 @@
 
 ## General info
 
-The project is a responsive website for a fictional blog about living a minimalist life. The site is based on a series of mockups given by the course instructor. The site is responsive and works well in small screen devices and large screen devices.
+The project is a responsive website for a fictional blog about living a minimalist life. The site is based on a series of style guides given by the course instructor. The site is responsive and works well in small screen devices and large screen devices.
 
 ## Screenshots
 
